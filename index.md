@@ -137,6 +137,8 @@ Software developer with 4+ years of experience in JavaScript development. Great 
 ---
 
 ### 📚 Professional Development & Courses
+- **Udemy:** Understanding Node.js: Core Concepts
+- **Udemy:** The Next.js 13 Bootcamp - The Complete Developer Guide
 - **Udemy:** React Native 2020 - Mobile Applications in JavaScript
 - **A-level:** Frontend Advanced - Two JS and React projects with certification
 - **A-level:** JavaScript Fundamentals with project and certification
