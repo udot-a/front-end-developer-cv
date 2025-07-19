@@ -1,5 +1,5 @@
 # Andrii Udot
-## Front End Developer (JS, React, React Native, Next.js)
+## Front End Developer (JS, Typescript, React, React Native, Next.js)
 
 <img src="avatar.jpeg" alt="Andrii Udot" width="200" style="border-radius: 10px; margin: 20px 0;"/>
 
