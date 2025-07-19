@@ -1,5 +1,3 @@
-<link rel="icon" type="image/x-icon" href="favicon.ico">
-
 # Andrii Udot
 ## Front End Developer (JS, Typescript, React, React Native, Next.js)
 
