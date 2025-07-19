@@ -1,4 +1,3 @@
-title: Andrii Udot - Front End Developer
 <link rel="icon" type="image/x-icon" href="favicon.ico">
 
 # Andrii Udot
