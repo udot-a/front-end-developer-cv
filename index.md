@@ -154,8 +154,7 @@ Software developer with 4+ years of experience in JavaScript development. Great 
 ---
 
 ### 🌍 Languages
-- **English:** Professional working proficiency
-
+- **English:** Intermediate B1
 ---
 
 ### 🎯 Interests
