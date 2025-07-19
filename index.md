@@ -1,6 +1,8 @@
 # Andrii Udot
 ## Front End Developer (JS, Typescript, React, React Native, Next.js)
 
+<a href="CV_Andrii_Udot_FrontEnd_Developer.pdf" download class="btn">Download PDF</a>
+
 <img src="avatar.jpeg" alt="Andrii Udot" width="200" style="border-radius: 10px; margin: 20px 0;"/>
 
 ---
