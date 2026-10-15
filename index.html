@@ -350,9 +350,12 @@
       animation: bob 6s ease-in-out infinite;
     }
     .float-badge .dot { width: 8px; height: 8px; border-radius: 3px; }
-    .fb1 { top: 6%; left: -12%; animation-delay: 0s; }
-    .fb2 { top: 46%; right: -8%; animation-delay: -2s; }
+    .fb1 { top: 4%; left: -12%; animation-delay: 0s; }
+    .fb4 { top: 14%; right: -8%; animation-delay: -1s; }
+    .fb5 { top: 42%; left: -20%; animation-delay: -3s; }
+    .fb2 { top: 54%; right: -12%; animation-delay: -2s; }
     .fb3 { bottom: 4%; left: -4%; animation-delay: -4s; }
+    .fb6 { bottom: 12%; right: -2%; animation-delay: -5s; }
     @keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
 
     /* entrance */
@@ -525,8 +528,11 @@
       .hero-grid { grid-template-columns: 1fr; gap: 48px; }
       .portrait { order: -1; width: min(260px, 64vw); justify-self: center; }
       .fb1 { left: -20%; }
+      .fb4 { right: -14%; }
+      .fb5 { left: -26%; }
       .fb2 { right: -22%; }
       .fb3 { left: -12%; }
+      .fb6 { right: -8%; }
       .stats { grid-template-columns: repeat(2, 1fr); }
       .skills { grid-template-columns: repeat(2, 1fr); }
       .more-grid { grid-template-columns: 1fr; }
@@ -541,8 +547,11 @@
       .portrait { width: min(210px, 56vw); }
       .float-badge { font-size: 11px; padding: 7px 10px; }
       .fb1 { left: -18%; }
+      .fb4 { right: -12%; }
+      .fb5 { left: -24%; }
       .fb2 { right: -20%; }
       .fb3 { left: -10%; }
+      .fb6 { right: -6%; }
       .stats { gap: 12px; margin-top: 40px; }
       .stat { padding: 18px 16px; }
       .skills { grid-template-columns: 1fr; }
@@ -666,7 +675,10 @@
             <div class="portrait-img"><img src="avatar.jpeg" alt="Portrait of Andrii Udot" width="358" height="374"></div>
             <span class="float-badge fb1" aria-hidden="true"><span class="dot" style="background:#61dafb"></span>React Native</span>
             <span class="float-badge fb2" aria-hidden="true"><span class="dot" style="background:#3178c6"></span>TypeScript</span>
-            <span class="float-badge fb3" aria-hidden="true"><span class="dot" style="background:var(--text)"></span>Next.js · Expo</span>
+            <span class="float-badge fb3" aria-hidden="true"><span class="dot" style="background:var(--text)"></span>Next.js</span>
+            <span class="float-badge fb4" aria-hidden="true"><span class="dot" style="background:#61dafb"></span>React</span>
+            <span class="float-badge fb5" aria-hidden="true"><span class="dot" style="background:#5fa04e"></span>Node.js</span>
+            <span class="float-badge fb6" aria-hidden="true"><span class="dot" style="background:#42b883"></span>Vue.js</span>
           </div>
         </div>
 
